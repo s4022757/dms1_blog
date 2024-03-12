@@ -18,4 +18,4 @@ This is an example change.
 
 Here is a mood pic.
 
-![Mood Pic by Roger Dean](dms1_blog/tree/main/static/w01s1/Aura - Roger Dean.jpg)
+![Mood Pic by Roger Dean](static/w01s1/Aura - Roger Dean.jpg)
