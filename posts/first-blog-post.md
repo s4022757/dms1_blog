@@ -22,6 +22,6 @@ Here is a mood pic.
 ![Mood Pic by Roger Dean](/dms1_blog/static/w01s1/Aura - Roger Dean.jpg)
 
 
-![Explosive Coffee Cup](/dms1_blog/static/w01s1/Bang!Caffeine.jpg)
+![Explosive Coffee Cup](/static/w01s1/Bang!Caffeine.jpg)
 
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
