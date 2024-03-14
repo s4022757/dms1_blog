@@ -20,19 +20,19 @@ _An explosive cup of coffee._
 ![Explosive Coffee Cup](/static/w01s01/Bang!Caffeine.jpg)
 
 _A book containing Digital Media wisdom, found amongst many._
-![Digital Media Book](static/w01s01/Book-of-Wisdom.jpg)
+![Digital Media Book](/static/w01s01/Book-of-Wisdom.jpg)
 
 _A door for the condemned._
-![Old Gaol Door](static/w01s01/door4condemned.jpg)
+![Old Gaol Door](/static/w01s01/door4condemned.jpg)
 
 _The disembodied hands of a great ape._
-![Disembodied ape hand statue](static/w01s01/Disembodied-apehands.jpg)
+![Disembodied ape hand statue](/static/w01s01/Disembodied-apehands.jpg)
 
 _A wide machine, dispensing beverages from a far away land._
-![Bevs all faraway](static/w01s01/Bevs-alla-faraway.jpg)
+![Bevs all faraway](/static/w01s01/Bevs-alla-faraway.jpg)
 
 _A golden globe atop a tower of eights._
-![Golden Globe](static/w01s01/Golden-Globe.jpg)
+![Golden Globe](/static/w01s01/Golden-Globe.jpg)
 
 We found 6/10 of the objects in the scavenger hunt. I'd call that a pass!
 
