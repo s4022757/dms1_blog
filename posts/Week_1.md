@@ -30,6 +30,7 @@ _The disembodied hands of a great ape._
 
 _A wide machine, dispensing beverages from a far away land._
 ![Bevs all faraway](/static/w01s01/Bevs-alla-faraway.jpg)
+![faraway beverages](/static/w01s01/Bevs-alla-faraway.jpg)
 
 _A golden globe atop a tower of eights._
 ![Golden Globe](/static/w01s01/Golden-Globe.jpg)
