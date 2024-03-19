@@ -41,7 +41,7 @@ We found 6/10 of the objects in the scavenger hunt. I'd call that a pass!
 
 ### Self-Portrait
 
-## Vimeo
+### Vimeo
 
 I've set up a vimeo account, in order to upload my soon to be completed self-portrait.
 
