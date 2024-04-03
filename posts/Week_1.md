@@ -41,7 +41,7 @@ We found 6/10 of the objects in the scavenger hunt. I'd call that a pass!
 
 ### Self-Portrait
 
-### Learning Premiere
+#### Learning Premiere
 
 Utilising the access RMIT students receive to Linkedin Learning, I've been going through the *Premiere Pro Essential Training* Course by Ashley Kennedy.
 

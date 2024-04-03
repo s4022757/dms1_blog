@@ -18,12 +18,4 @@ This is an example change.
 
 Here is a mood pic.
 
-![Mood Pic by Roger Dean](w01s01/Aura - Roger Dean.jpg)
-
-![Mood Pic by Roger Dean](w01s1/Aura - Roger Dean.jpg)
-
-
-
-![Explosive Coffee Cup](/static/w01s1/Bang!Caffeine.jpg)
-
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Mood Pic by Roger Dean](w01s01/Aura_Roger_Dean.jpg)
