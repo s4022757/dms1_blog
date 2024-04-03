@@ -41,6 +41,24 @@ We found 6/10 of the objects in the scavenger hunt. I'd call that a pass!
 
 ### Self-Portrait
 
+### Learning Premiere
+
+Utilising the access RMIT students receive to Linkedin Learning, I've been going through the *Premiere Pro Essential Training* Course by Ashley Kennedy.
+
+So far, I've completed up to chapter 5.
+
+![Chapter 1](w01s02/Chapter_1.png)
+
+![Chapter 2](w01s02/Chapter_2.png)
+
+![Chapter 3](w01s02/Chapter_3.png)
+
+![Chapter 4](w01s02/Chapter_4.png)
+
+![Chapter 5](w01s02/Chapter_5.png)
+
+Aced the tests!
+
 ### Vimeo
 
 I've set up a vimeo account, in order to upload my soon to be completed self-portrait.
