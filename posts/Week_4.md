@@ -4,9 +4,7 @@ published_at: 2024-04-11
 snippet: Moving onto Illustrator with Design Thinking.
 ---
 
-# Week 4
-
-## Session 1
+# Session 1
 
 ### Learning Illustrator
 
@@ -21,7 +19,7 @@ This is a 5 stage cyclical process which can be implemented to help guide and fo
 
 The 5 stages of the process are:
 
-![Design Thinking](static/w04s01/DesignThinking.png)
+![Design Thinking](/w04s01/DesignThinking.png)
 
 
 ### Black Squares activity - Part 1
@@ -32,7 +30,7 @@ Once all 48 thumbnail sketches were completed, a final sketch would be selected 
 
 While in class, I opened up Illustrator for what was the first time and rushed quickly to complete a single thumbnail sketch for each word.
 
-![The 1st Edition](static/w04s01/BlackSquares/BlackSquares_Development/First_Edition.png)
+![The 1st Edition](/w04s01/BlackSquares/BlackSquares_Development/First_Edition.png)
 
 The activity demanded fast paced responses to the prompts and the limitations imposed dissuaded us from spending too much time on each sketch.
 
@@ -45,11 +43,11 @@ In order to familiarise myself with Illustrator, and allow me improve my time ef
 
 I made my way through the videos and quizes through to chapter 3.
 
-![Chapter 1](static/w04s01/LiL_Illustrator/Chapter1.png)
+![Chapter 1](/w04s01/LiL_Illustrator/Chapter1.png)
 
-![Chapter 2](static/w04s01/LiL_Illustrator/Chapter2.png)
+![Chapter 2](/w04s01/LiL_Illustrator/Chapter2.png)
 
-![Chapter 3](static/w04s01/LiL_Illustrator/Chapter3.png)
+![Chapter 3](/w04s01/LiL_Illustrator/Chapter3.png)
 
 Aced the quizes!
 
