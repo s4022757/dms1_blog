@@ -30,7 +30,7 @@ Once all 48 thumbnail sketches were completed, a final sketch would be selected 
 
 While in class, I opened up Illustrator for what was the first time and rushed quickly to complete a single thumbnail sketch for each word.
 
-![The 1st Edition](/w04s01/BlackSquares/BlackSquares_Development/First_Edition.png)
+![The 1st Edition](/w04s01/BlackSquares/BlackSquares_Development/1First_Edition.png)
 
 The activity demanded fast paced responses to the prompts and the limitations imposed dissuaded us from spending too much time on each sketch.
 
@@ -55,3 +55,12 @@ With this completed, I'll now return to the black squares.
 
 ### Black Squares - Part 2
 
+Now equip with fledgling Illustrator capabilities, I cracked on with the black squares activity and begun with creating a few iterations per word. 
+
+One of the tools I learnt more about via Tony was correct use of the shape tools. No more copy and pasting the orginal squares provided in the template!
+
+![Start Iterating](/w04s01/BlackSquares/BlackSquares_Development/2Start_Iterations.png)
+
+*Just keep swimming.*
+
+![Iterating](/w04s01/BlackSquares/BlackSquares_Development/3Iterating.png)
