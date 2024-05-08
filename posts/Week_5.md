@@ -172,7 +172,7 @@ Should now have the skills I need to complete the designs for my icon suite.
 
 ## LinkedIn Learning HTML
 
-Since we will be hosting our icon suites on a html document, I better learn some more about HTML. I navigated to LinkedIn Learning's *HTML Essential Training* course by Jen Simmons
+Since we will be hosting our icon suites on a html document, I better learn some more about HTML. I navigated to LinkedIn Learning's *HTML Essential Training* course by Jen Simmons.
 
 Chapter 1: HTML
 
