@@ -65,7 +65,7 @@ Here is some of the progress I made:
 
 ![Plane Path](/w05s01/Bezier_Game/Bezier_Plane.png)
 
-*I Hate this game!*
+*I hate this game!*
 
 ### Practicing in Illustrator
 
