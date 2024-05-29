@@ -1,7 +1,7 @@
 ---
 title: DMS1 Week 9
 published_at: 2024-05-16
-snippet: Let's learn enough HTML to incorporate sound.
+snippet: Building & playtesting in Unity.
 ---
 
 # Session 1

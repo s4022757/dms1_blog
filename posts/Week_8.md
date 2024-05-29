@@ -1,7 +1,7 @@
 ---
 title: DMS1 Week 8
 published_at: 2024-05-09
-snippet: Let's learn enough HTML to incorporate sound.
+snippet: Exploring form and sound in 3D space.
 ---
 
 # Session 1
