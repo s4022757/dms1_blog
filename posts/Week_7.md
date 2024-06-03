@@ -322,6 +322,54 @@ It's looking like a real game now. Or playable at least. I should now have the t
 
 With our new knowledge, lets convert the plans from last session into a unity environment.
 
+### Cityscape
+
 First off, I'll convert the environment we made in session 2 into an environment that closer resembles the plan for Scene 1 - Cityscape.
+
+First off, the building the player will start in.
+
+![Starting Building](/w07s02/GreyboxPrototype/city/startbuilding.png)
+
+And the environment that surrounds this building.
+
+![Starting Area](/w07s02/GreyboxPrototype/city/startblock.png)
+
+Then the connecting area, a avenue with surrounding skyscrapers.
+
+![Skyline Avenue](/w07s02/GreyboxPrototype/city/skyline.png)
+
+And a bird's eye view of the scene for reference.
+
+![Bird's eye view](/w07s02/GreyboxPrototype/city/overview.png)
+
+
+### Void
+
+I'm thinking that the environment we created for the solar system system scope activity in last session will be perfect for the void scene I had intended to link the cityscape to the seaside scenes. I'll have to think of a way to transition between night and day, but for now it will do.
+
+
+### Seaside scene
+
+Next let's also convert the initial draft of the seaside scene into a greybox prototype.
+
+First off, I'll use the terrain tool to create a headland.
+
+![Headland](/w07s02/GreyboxPrototype/beach/headland.png)
+
+Not exactly pretty but it'll do as a rough draft for now. 
+
+I'll create another headland for the opposite side of the beach which will help frame things. We'll also need the surf life saving club. A cube will suffice for now.
+
+![SLSC](/w07s02/GreyboxPrototype/beach/slsc.png)
+
+With both headlands in place and the SLSC placed in between, lets start altering the terrain to look more beach-like. First I'll stamp out some sand dunes, and the stamp some ocean surface onto the water beyond.
+
+![Sand Dunes](/w07s02/GreyboxPrototype/beach/dunes.png)
+
+Again, it ain't pretty but it's definitely reminiscent.
+
+Finally, here is a bird's eye view to provide perspective.
+
+![Bird's eye view](/w07s02/GreyboxPrototype/beach/overview.png)
 
 
