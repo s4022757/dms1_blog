@@ -248,18 +248,18 @@ Enough deliberation. Yifan, Kunzes and I then set out following our route.
 
 We made it through Bowen St, onto La Trobe and reached the end of the State Library.
 
-![Signs of Commerce](/w07s02/Signs_of_Commerce.jpeg)
+![Signs of Commerce](/w07s02/Wayfinding/Signs_of_Commerce.jpeg)
 
 Hey look, certain signs of commerce! Oh, and there's the busy tram stop on Swanston. We don't seem to be lost yet. 
 We then continued south on Swanston. *Or tried.*
 
-![Obstacle](/w07s02/Agitators.jpeg)
+![Obstacle](/w07s02/Wayfinding/Agitators.jpeg)
 
 *We must act before we lose our way, Israel shant lead us astray.*
 
 Circumventing the agitating masses, we continued south on the other side of the street.
 
-![Japan Lies Ahead](/w07s02/Japanese_Culture.jpeg)
+![Japan Lies Ahead](/w07s02/Wayfinding/Japanese_Culture.jpeg)
 
 Sushi? Japanese cultural breadcrumbing? We must be making progress.
 
@@ -267,7 +267,7 @@ We kept following Swanston south until we noticed that QV Square stopped at the 
 
 At this point, our pre-planned route was exhausted and we were left only with our perception to guide us to the destination. We searched around our surroundings for any hint on where to find Muji. Once we entered Emporium we struck gold.
 
-![Information Point](/w07s02/Info_Icon.jpg)
+![Information Point](/w07s02/Wayfinding/Info_Icon.jpg)
 
 Equip with the recent memory of our previous assignment, we knew that the icon we found represented information and was likely able to guide us the rest of the way. Using the information point, we used the interactive map it provided which told us where exactly inside the mall Muji was and laid out a path for us to follow the rest of the way to our destination.
 
@@ -275,11 +275,11 @@ Equip with the recent memory of our previous assignment, we knew that the icon w
 
 Lo and behold, the iconography saved the day and we spotted the calming, incandescent glow of the Muji Sign
 
-![Destination Reached](/w07s02/Muji.jpeg)
+![Destination Reached](/w07s02/Wayfinding/Muji.jpeg)
 
 To verify that the destination was indeed Muji, and not an immitative illusion, we participated in the economy!
 
-![Muji Haul](/w07s02/Loot.jpeg)
+![Muji Haul](/w07s02/Wayfinding/Loot.jpeg)
 
 Muji sure sells good stationary. *Maybe I need some new socks too.*
 

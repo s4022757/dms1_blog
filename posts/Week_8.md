@@ -81,7 +81,7 @@ Lets have a look for some more.
 
 The detail in some of the freely availble models are meticulous!
 
-With a little more knowledge about rectangular form, let's also now rearange the buildings with form & void in mind.
+With a little more knowledge about void rectangular form, let's also now rearange the buildings with this in mind.
 
 ![New Skyline](/w08s01/Imported_Cityscene/Skyline.png)
 
